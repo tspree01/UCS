@@ -1,0 +1,18 @@
+{
+  "Car": {
+    "Make": "Acure",
+    "Model": "MDX",
+    "Year": "2009",
+    "Price": "10000",
+    "Wheels": [
+      {
+        "Make": "Acure",
+        "Model": "MDX",
+        "Width": 10,
+        "AspectRatio": 1,
+        "Diameter": 5,
+        "LoadIndex": 5
+      }
+    ]
+  }
+}
